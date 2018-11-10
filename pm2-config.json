@@ -1,0 +1,13 @@
+{
+  "apps":[
+    {
+      "name":"site-backend",
+      "cwd":".",
+      "script":"/usr/local/bin/node",
+      "args":[
+        "src/index.js"
+      ],
+      "exec_mode":"fork"
+    }
+  ]
+}
